@@ -1,0 +1,46 @@
+{
+    "server_name": "Tierras del Sur",
+    "class_avg": {
+        "asesino": 7.75,
+        "bardo": 7.75,
+        "druida": 7.75,
+        "clerigo": 7.75,
+        "mago": 6.25,
+        "paladin": 9.25,
+        "cazador": 8.75,
+        "guerrero": 9.75,
+        "pirata": 9.75,
+        "minero": 9.75,
+        "talador": 9.75,
+        "pescador": 9.75,
+        "recolector": 9.75,
+        "carpintero": 7.25,
+        "herrero": 7.25,
+        "sastre": 7.25
+    },
+    "race_avg": {
+        "humano": 0.25,
+        "elfo": -0.25,
+        "eo": -0.25,
+        "enano": 0.75,
+        "gnomo": -0.75
+    },
+    "initial_hp": {
+        "asesino": 30,
+        "bardo": 23,
+        "druida": 23,
+        "clerigo": 23,
+        "mago": 21,
+        "paladin": 24,
+        "cazador": 8.75,
+        "guerrero": 9.75,
+        "pirata": 9.75,
+        "minero": 9.75,
+        "talador": 9.75,
+        "pescador": 9.75,
+        "recolector": 9.75,
+        "carpintero": 7.25,
+        "herrero": 7.25,
+        "sastre": 7.25
+    }
+}
